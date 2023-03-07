@@ -1,6 +1,6 @@
- 👋 @{{ author }}
-            Thank you for raising your pull request.
-            Please make sure you have followed our contributing guidelines. We will review it as soon as possible
-            ### Code Checklist
-              - [ ] Testing
-              - [ ] Documentation
+👋 @{{ author }}
+Thank you for raising your pull request.
+Please make sure you have followed our contributing guidelines. We will review it as soon as possible
+### Code Checklist
+ - [ ] Testing
+ - [ ] Documentation
